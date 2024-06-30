@@ -32,9 +32,8 @@ Bu React Native uygulaması, barkod tarayıcı kullanarak ürün bilgilerini get
 
 ## Ekran Görüntüleri
 
-
-![Ekran Görüntüsü 1](screenshot/camera.jpg)
-![Ekran Görüntüsü 2](screenshot/modal.jpg)
+<img src="screenshot/camera.jpg" alt="Ekran Görüntüsü 1" width="300" />
+<img src="screenshot/modal.jpg" alt="Ekran Görüntüsü 2" width="300" />
 
 ## Katkıda Bulunanlar
 - https://world.openfoodfacts.net (endpoin bilgisi)
